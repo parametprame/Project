@@ -20,3 +20,6 @@
 สามารถเข้าไปดู รายละเอียด และ วีดีโอนำเสนอ ของโปรเจค SAFETY FIRST เพิ่มเติมได้ที่ เว็บไซต์ข้างล่าง
 [Google](www.google.com)
 [Google](www.google.com)
+### ☀ Built-With
+* Python 3.7.0
+ * pygal 2.0.0
