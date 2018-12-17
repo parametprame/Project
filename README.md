@@ -24,13 +24,12 @@
 * Python `<3.7.0>`
   * pygal `<2.0.0>`
 ### ☁ Member ☁
-
 * 61070121	นาย ปารเมศ คงเจริญ 
   * [parametprame](https://github.com/parametprame)
-  *
+  * 
 * 61070145 นางสาว พิมวรีย์ กรมสุริยศักดิ์ 
   * [61070145](https://github.com/61070145)
-  * 
+  * ![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/13512247_1043501582396306_7105946236861078178_n.jpg?_nc_cat=109&_nc_eui2=AeGgYSltNZmhJ5A7sUNYYCY2Ks5myMDbS1YwCHpsz3Mgm0FnxGqkVVEHmGDTjWtGlkHnuwS3ens4TFjb0W1ECMhwpu5yaPgRFgIt2rf-_og1OA&_nc_ht=scontent.fbkk2-8.fna&oh=cf6958cbabc65d3987bbd589ee7d4caa&oe=5C8DBC96)
 
 * 61070243 นางสาว สิริพร จงจิตร
   * [aprilsrp](https://github.com/aprilsrp)
