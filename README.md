@@ -27,12 +27,11 @@
 
 * 61070121	นาย ปารเมศ คงเจริญ 
   * [parametprame](https://github.com/parametprame)
-  * ![Image](https://drive.google.com/file/d/17Sn0i-NiPjAxQw7m8Vwx4FrZADL_XAfi/view?usp=sharing)
-
+  *
 * 61070145 นางสาว พิมวรีย์ กรมสุริยศักดิ์ 
   * [61070145](https://github.com/61070145)
-  * ![Image](https://drive.google.com/file/d/1YhLP6y-hOWPzzJAR2bZTH8PZR9ESJEKv/view?usp=sharing)
+  * 
 
 * 61070243 นางสาว สิริพร จงจิตร
   * [aprilsrp](https://github.com/aprilsrp)
-  * ![Image](https://drive.google.com/file/d/15570qv2Xp6V1mceXtC_oQjnZuI7dvpY5/view?usp=sharing)
+  * 
