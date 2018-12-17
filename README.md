@@ -26,7 +26,7 @@
 ### ☁ Member ☁
 ![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/48360319_2453384801356955_5513030926067564544_o.jpg?_nc_cat=104&_nc_ht=scontent.fbkk2-8.fna&oh=659d410eb7d845be5daf99290507b6da&oe=5CA6E42B)
 * 61070121	นาย ปารเมศ คงเจริญ 
-  * [parametprame](https://github.com/parametprame)
+  *  [parametprame](https://github.com/parametprame)
  
 * 61070145 นางสาว พิมวรีย์ กรมสุริยศักดิ์ 
   * [61070145](https://github.com/61070145)
@@ -34,3 +34,4 @@
 * 61070243 นางสาว สิริพร จงจิตร
   * [aprilsrp](https://github.com/aprilsrp)
   
+ เพื่อติดตามการสรุปผลการดำเนินงานในการป้องกันและลดอุบัติเหตุทางถนนในช่วงเทศกาลปีใหม่2561 และ พิจารณา (ร่าง) แผนบูรณาการป้องกันและลดอุบัติเหตุทางถนนช่วงเทศกาลสงกรานต์ โดยมี นายฉัตรชัย พรหมเลิศ ปลัดกระทรวงมหาดไทย....... อ่านต่อได้ที่ : [link](https://www.posttoday.com/social/general/543693)
