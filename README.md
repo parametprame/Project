@@ -24,12 +24,13 @@
 * Python `<3.7.0>`
   * pygal `<2.0.0>`
 ### ☁ Member ☁
+![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/48360319_2453384801356955_5513030926067564544_o.jpg?_nc_cat=104&_nc_ht=scontent.fbkk2-8.fna&oh=659d410eb7d845be5daf99290507b6da&oe=5CA6E42B)
 * 61070121	นาย ปารเมศ คงเจริญ 
   * [parametprame](https://github.com/parametprame)
-  * ![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/48405098_2453377394691029_1649666693233901568_n.jpg?_nc_cat=100&_nc_ht=scontent.fbkk2-8.fna&oh=8edbe90e17332be5cb3d547c9164dcf2&oe=5C9A25E2)
+ 
 * 61070145 นางสาว พิมวรีย์ กรมสุริยศักดิ์ 
   * [61070145](https://github.com/61070145)
-  * ![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/48375531_2453377391357696_8467459948832358400_n.jpg?_nc_cat=102&_nc_ht=scontent.fbkk2-8.fna&oh=366aaebf0dcee663a95eb926234adfbf&oe=5CA0FF7F)
+ 
 * 61070243 นางสาว สิริพร จงจิตร
   * [aprilsrp](https://github.com/aprilsrp)
-  * ![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/48360748_2453377388024363_8006718156787679232_n.jpg?_nc_cat=102&_nc_ht=scontent.fbkk2-8.fna&oh=a5059735834eaf3c0dbb8ee2bcc08e9a&oe=5CA76D89)
+  
