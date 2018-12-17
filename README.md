@@ -21,10 +21,12 @@
 [Google](www.google.com)
 [Google](www.google.com)
 ### ☀ Built-With ☀ 
-* Python 3.7.0
-  * pygal 2.0.0
+* Python `<3.7.0>`
+  * pygal `<2.0.0>`
 ### ☁ Member ☁
-* 61070121	นาย ปารเมศ คงเจริญ
-<dd> mcdskm
-* 61070145 นางสาว พิมวรีย์ กรมสุริยศักดิ์
-* 61070243 นางสาว สิริพร จงจิตร 
+![Image](http://coull.com/wp-content/uploads/2018/05/safety-first-sign.jpg)
+* 61070121	นาย ปารเมศ คงเจริญ [parametprame](https://github.com/parametprame)
+
+* 61070145 นางสาว พิมวรีย์ กรมสุริยศักดิ์ [61070145](https://github.com/61070145)
+
+* 61070243 นางสาว สิริพร จงจิตร [aprilsrp](https://github.com/aprilsrp)
