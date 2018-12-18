@@ -19,7 +19,7 @@
 ######
 สามารถเข้าไปดู รายละเอียด และ วีดีโอนำเสนอ ของโปรเจค SAFETY FIRST เพิ่มเติมได้ที่ เว็บไซต์ข้างล่าง
 #### [Youtube](https://youtu.be/ZzJlytVf5xQ)
-#### [Website](http://www.it.kmitl.ac.th/~it61070145/project%20psit/contact.html)
+#### [Website](http://www.it.kmitl.ac.th/~it61070145/project%20psit/home.html)
 ### ☀ Built-With ☀ 
 * Python `<3.7.0>`
   * pygal `<2.0.0>`
